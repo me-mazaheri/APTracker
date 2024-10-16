@@ -8,7 +8,7 @@ This page is related to our new research: "APTracker". The malware sample files 
 
 **You can access and study the paper using [paper link](https://ieeexplore.ieee.org/abstract/document/10704627/).**
 
-**____________________________________________________________________________________________________________________________**
+**_________________________________________**
 
 
 **APTracker samples can be downloaded from the following links (the list will be updated) [Password: 'infected']**
