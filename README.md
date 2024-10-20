@@ -8,7 +8,7 @@
 
 **You can access and study the paper using [paper link](https://ieeexplore.ieee.org/abstract/document/10704627/).**
 
-<br /><br />
+<br />
 
 
 **APTracker samples can be downloaded from the following links (the list will be updated) [Password: 'infected']**
