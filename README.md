@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://github.com/me-mazaheri/APTracker/blob/main/logo2.png" /> </p>
 
 
-This page is related to our new research: "APTracker". The malware sample files from this dataset will be published on this page following the publication of the paper. What is now on this page is an analysis of some of the malware families in this dataset from a malware analyst's perspective, as well as a list of malware samples from the dataset, identified by several characters of their hashes in the list (as proof of concept). After the publication of the article, the full list will be made available.
+<p align="justify>This page is related to our new research: "APTracker". The basis of developing an effective attribution systems is to benefit from a rich dataset. In this work, we scrutinize previous datasets from several perspectives while focusing on analyzing our dataset, which we claim is the most comprehensive in the realm of malware attribution. This dataset encompasses 64,440 malware samples attributed to 22 APT groups and spans a minimum of 40 malware families. The samples in the dataset span the years 2020 to 2024, and their developer APT groups originate from Russia, South Korea, China, USA, Nigeria, North Korea, Pakistan and Belarus. Its richness and breadth render it invaluable for future research endeavors in the field of malware attribution.</p>
 
 **You can access and study the paper using [paper link](https://ieeexplore.ieee.org/abstract/document/10704627/).**
 
