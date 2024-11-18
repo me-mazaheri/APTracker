@@ -11,7 +11,7 @@
 <br />
 
 
-**APTracker samples can be downloaded from the following links (the list will be updated) [Password: 'infected']**
+**APTracker samples can be downloaded from the following links [Password: 'infected']**
 
 **[APT1](https://s32.picofile.com/d/8479756176/afe23be4-ef0a-4d5a-80a6-8c8c4583b8c7/APT_1_China.rar)** ***** **[APT10](https://s32.picofile.com/d/8479756226/a8f77dd3-f72e-4081-87e2-8bdc52af2b87/APT_10_China.rar)** ***** **[APT21](https://s32.picofile.com/d/8479756242/cc9dd69d-80ec-4a46-93c4-9b2f6e8e1106/APT_21_China.rar)** ***** **[APT28](https://s32.picofile.com/d/8479756342/34596ac1-6965-47d5-8c1a-f9b6cf3b77b4/APT_28_Russia.rar)** ***** **[APT29](https://s32.picofile.com/d/8479756426/cec99343-dbaa-4f94-9b0b-8546922a8c95/APT_29_Russia.rar)** ***** **[APT30](https://s32.picofile.com/d/8479756442/d809c40a-2b16-435a-8dbb-3f906bb5240e/APT_30_China.rar)** ***** **[DarkHotel](https://s32.picofile.com/d/8479756834/96b83e97-3925-4504-988e-3e22e6e85567/Dark_Hotel_South_Korea.rar)** ***** **[Energetic Bear](https://s32.picofile.com/d/8479756884/ddb5b0cb-6836-4397-9592-546bf59ce68e/Energetic_Bear_Russia.rar)** ***** **[Equation Group](https://s32.picofile.com/d/8479756892/80df5c3d-006f-48f0-b7df-d5d75d4f0df8/Equation_Group_USA.rar)** 
 
